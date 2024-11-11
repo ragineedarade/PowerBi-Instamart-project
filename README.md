@@ -1,4 +1,4 @@
-Instamart Power BI Dashboard
+Instamart Power BI Dashboard 
 Project Name: Instamart Dashboard
 Description: Instamart is India's last-second app for essential shopping. This Power BI dashboard provides a detailed analysis of various sales metrics to help track and improve business performance.
 
